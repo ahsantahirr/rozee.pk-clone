@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    height: 30px;
+}
+
+.mynav {
+    margin-left: 190px;
+}
+
+.buttons {
+    display: flex;
+    gap: 5px;
+}
+
+.button1 {
+    background-color: #46b749;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.button2 {
+    background-color: #3682ff;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+    width: 180px;
+}
+
+.button3 {
+    background-color: #23315f;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+}
+.image{
+    background-image: url(./Assets/background\ image.webp);
+    height: 420px;
+   
+}
+.image h1{
+    color: white;
+    font-size: 3em;
+}
+.textpart{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inp{
+    display: flex;
+    justify-content: center;
+}
+.uu{
+    width: 600px;
+    height: 50px;
+    padding: 10px;
+}
+.uuv{
+    width: 150px;
+    height: 50px;
+    background-color: #3682ff;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+.same{
+    margin-top: 70px;
+}
+.round{
+    border: none;
+    border-radius: 100px;
+    width: 70px
+    ;
+}
